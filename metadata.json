@@ -1,0 +1,6 @@
+{
+  "name": "PC MASTER 3D",
+  "description": "Laboratorio virtual interactivo en 3D para aprender mantenimiento preventivo y correctivo de computadoras de escritorio, placas madre, laptops y teléfonos celulares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
